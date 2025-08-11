@@ -103,3 +103,15 @@ Keep exploring.
     - `003.md`
     - `005.md`
 
+- __2025-08-10__ · [`02a1206`](https://github.com/operatorjen/systems.as.games/commit/02a12066ec0efb41730f96c8f37e6e1ce77c6df2) — A guide
+  - Compare: [9af7b81..02a1206](https://github.com/operatorjen/systems.as.games/compare/9af7b81...02a12066ec0efb41730f96c8f37e6e1ce77c6df2)
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-11__ · [`7d80d07`](https://github.com/operatorjen/systems.as.games/commit/7d80d0782d241b19ebe1b82241453ea329d5ab5f) — Your first onboarding tips...
+  - Compare: [02a1206..7d80d07](https://github.com/operatorjen/systems.as.games/compare/02a1206...7d80d0782d241b19ebe1b82241453ea329d5ab5f)
+  - Files:
+    - `001.md`
+    - `003.md`
+    - `005.md`
+
