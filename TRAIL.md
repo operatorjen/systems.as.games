@@ -115,3 +115,25 @@ Keep exploring.
     - `003.md`
     - `005.md`
 
+- __2025-08-11__ · [`4c47083`](https://github.com/operatorjen/systems.as.games/commit/4c4708372038782496d69237c3a7f39a70a80ccf) — Guide updates
+  - Compare: [7d80d07..4c47083](https://github.com/operatorjen/systems.as.games/compare/7d80d07...4c4708372038782496d69237c3a7f39a70a80ccf)
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-12__ · [`113937d`](https://github.com/operatorjen/systems.as.games/commit/113937d2c320ee64c8895f00040823ee6b58e9b9) — Eighth recomposition
+  - Compare: [4c47083..113937d](https://github.com/operatorjen/systems.as.games/compare/4c47083...113937d2c320ee64c8895f00040823ee6b58e9b9)
+  - Files:
+    - `006.md`
+
+- __2025-08-12__ · [`70e1320`](https://github.com/operatorjen/systems.as.games/commit/70e13205794fc20112213cffabb1b01f763cba2d) — Branching...
+  - Compare: [113937d..70e1320](https://github.com/operatorjen/systems.as.games/compare/113937d...70e13205794fc20112213cffabb1b01f763cba2d)
+  - Files:
+    - `000.md`
+    - `002.md`
+    - `004.md`
+
+- __2025-08-12__ · [`a0f0c2e`](https://github.com/operatorjen/systems.as.games/commit/a0f0c2eb57c4a940b63a6474fdf5099ac91e4f31) — A question?
+  - Compare: [70e1320..a0f0c2e](https://github.com/operatorjen/systems.as.games/compare/70e1320...a0f0c2eb57c4a940b63a6474fdf5099ac91e4f31)
+  - Files:
+    - `006.md`
+
