@@ -137,3 +137,14 @@ Keep exploring.
   - Files:
     - `006.md`
 
+- __2025-08-12__ · [`8059d36`](https://github.com/operatorjen/systems.as.games/commit/8059d3610a604a7b36d04b4b147f065683bf6376) — Guide updates; new collectable
+  - Compare: [a0f0c2e..8059d36](https://github.com/operatorjen/systems.as.games/compare/a0f0c2e...8059d3610a604a7b36d04b4b147f065683bf6376)
+  - Files:
+    - `COLLECTION.md`
+    - `TRAIL.md`
+
+- __2025-08-13__ · [`8bfcd74`](https://github.com/operatorjen/systems.as.games/commit/8bfcd745c6f1d6a1717c8aa4e71da088168ff8ed) — Embodiment: activated
+  - Compare: [8059d36..8bfcd74](https://github.com/operatorjen/systems.as.games/compare/8059d36...8bfcd745c6f1d6a1717c8aa4e71da088168ff8ed)
+  - Files:
+    - `000.md`
+
