@@ -121,3 +121,24 @@ h3.lab {
 /* facet depth from FACET (triangle density, etc.) */
 :root[data-sagfacet="0"] .tri { display: none; }
 :root[data-sagfacet="6"] .tri { opacity: 1; }
+
+#sag-toast-container{font-family:monospace;position:fixed;top:16px;right:16px;z-index:9999;display:flex;flex-direction:column;gap:8px;pointer-events:none}
+.sag-toast{min-width:200px;max-width:360px;background:rgba(20,20,25,.95);color:#fff;padding:10px 14px;border-radius:3px;box-shadow:0 8px 24px rgba(0,0,0,.25);display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:center;transform:translateX(120%);opacity:0;animation:sag-slide-in .22s ease-out forwards,sag-fade-out .32s ease-in forwards var(--life,2200ms)}
+.sag-toast .icon{font-size:18px;line-height:1;opacity:.9}.sag-toast .title{font-weight:700}.sag-toast .meta{opacity:.8;font-size:.9em}
+@keyframes sag-slide-in{to{transform:translateX(0);opacity:1}}
+@keyframes sag-fade-out{to{transform:translateX(120%);opacity:0}}
+.sag-overlay{font-family:monospace;position:fixed;inset:0;background:rgba(0,0,0,.35);backdrop-filter:saturate(90%) blur(1px);opacity:0;pointer-events:none;transition:opacity .18s ease;overflow:auto}
+.sag-drawer{position:fixed;top:0;right:0;height:85%;width:min(420px,90vw);background:#0f1115;color:#e8eaf0;box-shadow:-12px 0 32px rgba(0,0,0,.35);transform:translateX(100%);transition:transform .22s ease;display:flex;flex-direction:column;z-index:9998}
+.sag-drawer header{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid rgba(255,255,255,.06)}
+.sag-drawer header h2{margin:0;margin-top:10px}.sag-drawer .body{padding:12px 16px;overflow:auto;flex:1;display:grid;gap:16px}
+.sag-section h3{margin:0 0 8px 0;margin-top:10px}.sag-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.sag-item{background:#151821;border:1px solid rgba(255,255,255,.06);border-radius:3px;padding:10px;display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center}
+.sag-item .ic{font-size:18px}.sag-item .name{font-weight:600}.sag-item .qty{opacity:.85;font-variant-numeric:tabular-nums}
+.sag-recipe{background:#13161d;border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:12px;display:grid;gap:10px}
+.sag-recipe .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.sag-chip{background:#1d2230;border:1px solid rgba(255,255,255,.08);padding:4px 8px;border-radius:999px;font-size:12px;display:inline-grid;grid-auto-flow:column;gap:6px;align-items:center}
+.sag-btn{appearance:none;border:0;border-radius:3px;background:#3b82f6;color:#fff;padding:8px 10px;font-weight:600;cursor:pointer;transition:filter .12s ease}
+.sag-btn[disabled]{opacity:.5;cursor:not-allowed}.sag-btn:hover{filter:brightness(1.05)}
+.sag-footer{padding:12px 16px;border-top:1px solid rgba(255,255,255,.06);display:flex;justify-content:flex-end;gap:8px}
+.sag-openbtn{position:fixed;right:16px;bottom:16px;padding:10px 12px;border-radius:3px;background:#151821;border:1px solid rgba(255,255,255,.08);color:#e8eaf0;font-weight:600;cursor:pointer;box-shadow:0 6px 16px rgba(0,0,0,.25);z-index:9999}
+.sag-openbtn:hover{filter:brightness(1.05)}.sag-visible .sag-overlay{opacity:1;pointer-events:auto}.sag-visible .sag-drawer{transform:translateX(0)}
