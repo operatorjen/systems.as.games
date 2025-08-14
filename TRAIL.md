@@ -148,3 +148,23 @@ Keep exploring.
   - Files:
     - `000.md`
 
+- __2025-08-13__ · [`ef51fc7`](https://github.com/operatorjen/systems.as.games/commit/ef51fc79b50ddc615dd70969f57d9755fe9e7fb2) — Guide updates
+  - Compare: [8bfcd74..ef51fc7](https://github.com/operatorjen/systems.as.games/compare/8bfcd74...ef51fc79b50ddc615dd70969f57d9755fe9e7fb2)
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-13__ · [`adba4c3`](https://github.com/operatorjen/systems.as.games/commit/adba4c3bd0d70a7689e871742d72eda5634a756f) — Relocation: 1 of 3 complete
+  - Compare: [ef51fc7..adba4c3](https://github.com/operatorjen/systems.as.games/compare/ef51fc7...adba4c3bd0d70a7689e871742d72eda5634a756f)
+  - Files:
+    - `003.md`
+
+- __2025-08-13__ · [`2f837a8`](https://github.com/operatorjen/systems.as.games/commit/2f837a83bd51df113de6c43ee1623c7e5e7adfd9) — Relocation: 2 of 3 complete
+  - Compare: [adba4c3..2f837a8](https://github.com/operatorjen/systems.as.games/compare/adba4c3...2f837a83bd51df113de6c43ee1623c7e5e7adfd9)
+  - Files:
+    - `005.md`
+
+- __2025-08-13__ · [`35ad80a`](https://github.com/operatorjen/systems.as.games/commit/35ad80ab2121c087121e2c705d6771bcd0da1581) — Relocation: 3 of 3 complete
+  - Compare: [2f837a8..35ad80a](https://github.com/operatorjen/systems.as.games/compare/2f837a8...35ad80ab2121c087121e2c705d6771bcd0da1581)
+  - Files:
+    - `001.md`
+
