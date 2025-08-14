@@ -1,0 +1,22 @@
+<!-- worlds/index.html -->
+<!doctype html><meta charset="utf-8">
+<title>SAG World</title>
+<div id="app"></div>
+<script type="module">
+  import { worldFromSAG } from './precompile/sag-worlds.js';
+  const params = new URLSearchParams(location.search);
+  const code = params.get('code') || 'SAG-000';
+  const w = worldFromSAG(code);
+  const el = document.getElementById('app');
+  if (!w) { el.textContent = 'Unknown code.'; throw 0; }
+  const { motifs, knobs } = w;
+  el.innerHTML = `
+    <h1>${code}</h1>
+    <p>${motifs.garden.name} · ${motifs.helios.name} · ${motifs.crags.name} · ${motifs.facet.name}</p>
+    <ul>
+      <li>Spawn: ${knobs.spawnRate.toFixed(2)}</li>
+      <li>Reveal: ${(100*knobs.revealChance|0)}%</li>
+      <li>Gate: ${knobs.gateCost}</li>
+      <li>Wind: ${knobs.wind ? 'on' : 'off'}</li>
+    </ul>`;
+</script>

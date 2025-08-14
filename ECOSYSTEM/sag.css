@@ -1,0 +1,123 @@
+body {
+  font-family: monospace;
+  font-size: 1rem;
+}
+h1,h2,h3 {
+  font-size: 1rem;
+}
+h3.lab {
+  font-size: 0.85rem;
+  font-weight: normal;
+}
+#interface {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  background-color: rgba(1, 1, 1, 0.8);
+  padding: 5px;
+  height: 80px;
+  width: 100vw;
+  color: #eee;
+}
+#out {
+  white-space: nowrap;
+  overflow-x: scroll;
+  text-align: center;
+  padding: 5px;
+  height: 40px;
+  vertical-align: top;
+}
+#out .live-symbol { opacity: .35; }
+#out span { letter-spacing: 2px; font-size: 1.5rem;  }
+#status {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  text-align: center;
+
+}
+#clear {
+  font-family: Arial, sans-serif;
+  font-weight: 300;
+  position: fixed;
+  padding: 2px 15px;
+  top: 62px;
+  right: 5px;
+  font-size: 0.95rem;
+  background-color: rgba(89, 112, 114, 0.88);
+  border: 0;
+  color: #eee;
+  border-radius: 2px;
+}
+#clear:active {
+  background-color: #eee;
+  color: rgba(1, 1, 1, 0.8);
+}
+#notification {
+  width: 0;
+  height: 20px;
+  color: #111;
+  background-color: rgba(255, 227, 18, 0.631);
+  padding: 0;
+  position: fixed;
+  top: 90px;
+  left: 0;
+}
+
+#notification.active {
+  transition: 4s;
+  width: auto;
+  padding: 5px;
+}
+
+#inv-open {
+  position: fixed; bottom: 1rem; right: 1rem;
+  z-index: 1000; padding: 0.5rem 1rem;
+}
+#inv-drawer {
+  position: fixed; top: 0; right: -300px; width: 300px; height: 100%;
+  background: #111; color: #fff; overflow-y: auto;
+  transition: right 0.3s ease; z-index: 1001; padding: 1rem;
+}
+#inv-drawer.open { right: 0; }
+#inv-header { display: flex; justify-content: space-between; align-items: center; }
+.inv-item { display: flex; justify-content: space-between; margin: 0.25rem 0; }
+.craft-btn { display: block; width: 100%; margin: 0.25rem 0; }
+.sag-btn {
+  margin: 10px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+.sag-card {
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 0 5px;
+  margin-top: 5px;
+}
+
+#crumbs-rail {
+  position: fixed;
+  bottom: 5px;
+  left: 5px;
+  z-index: 3;
+
+}
+
+.sag-crumbs{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.sag-crumbs .sag-link{
+  display:inline-block;padding:4px 10px;border:1px solid rgba(255,255,255,.12);
+  border-radius:999px;background:#1a1d26;color:#e8eaf0;text-decoration:none;font-size:12px
+}
+.sag-crumbs .sag-link:hover{filter:brightness(1.08)}
+
+/* day/night flip from HELIOS */
+:root[data-sagday="1"] { color-scheme: light; }
+:root[data-sagday="0"] { color-scheme: dark; }
+
+/* wind from CRAGS (add a subtle animation if you want) */
+:root[data-sagwind="1"] .canopy { filter: blur(1px); opacity: .9; }
+
+/* facet depth from FACET (triangle density, etc.) */
+:root[data-sagfacet="0"] .tri { display: none; }
+:root[data-sagfacet="6"] .tri { opacity: 1; }
