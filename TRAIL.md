@@ -273,3 +273,84 @@ Keep exploring.
 - __2025-08-15__ · [`34b83e2`](https://github.com/operatorjen/bean.sims/commit/34b83e297cbb2ee3b3abb30bf13f16cb1c1bacc3) — World: loading
   - Files:
     - `index.html`
+
+- __2025-08-15__ · [`9151387`](https://github.com/operatorjen/bean.sims/commit/9151387b2048ba0153ad0f88aab356b85c62baf9) — World: loading complete
+  - Files:
+    - `main.css`
+
+## mcsv
+
+- __2025-08-15__ · [`70df617`](https://github.com/operatorjen/mcsv/commit/70df61730b796ea1fded17a0a97064254457cd39) — World: loading
+  - Files:
+    - `index.html`
+
+- __2025-08-15__ · [`7794047`](https://github.com/operatorjen/mcsv/commit/7794047f75b988dfd71019b1e9ba6d677114f014) — World: loading complete
+  - Files:
+    - `style.css`
+
+## artificial.lifeforms
+
+- __2025-08-15__ · [`745aa82`](https://github.com/operatorjen/artificial.lifeforms/commit/745aa821c000f29085ac0ae395f0fd8384bca756) — World: loading
+  - Files:
+    - `index.html`
+
+- __2025-08-15__ · [`b432599`](https://github.com/operatorjen/artificial.lifeforms/commit/b4325991b80a04b6d28d64db54d8f9cfe4f9e699) — World: loading complete
+  - Files:
+    - `sc.js`
+    - `script.js`
+    - `style.css`
+
+## 1k.quantumworm
+
+- __2025-08-15__ · [`fc456f8`](https://github.com/operatorjen/1k.quantumworm/commit/fc456f8cff6b5ce2594e3c69c9c2198a011df3be) — river reroute links ••• facets rename schema [T0 R1 F1] obj=links v=0.9 seed=bc4189d
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## art.of.noise
+
+- __2025-08-15__ · [`710ea81`](https://github.com/operatorjen/art.of.noise/commit/710ea81eb6866c5f96a7214f57756d170dc36829) — river gate links ••• facets remap schema [T0 R1 F1] obj=links v=0.9 seed=b7696d6
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## artificial.lifeforms
+
+- __2025-08-15__ · [`e110f79`](https://github.com/operatorjen/artificial.lifeforms/commit/e110f792ddeace2c6ae60373fa37a2d806eb3a8d) — river reroute links ••• facets rename schema [T0 R1 F1] obj=links v=0.9 seed=93b18d2
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## bean.sims
+
+- __2025-08-15__ · [`128c21f`](https://github.com/operatorjen/bean.sims/commit/128c21f7ee6b7277acad2ef0c42ac982747cfd3b) — river gate links ••• facets remap schema [T0 R1 F1] obj=links v=0.9 seed=e3e032b
+  - Files:
+    - `index.html`
+    - `main.css`
+
+## mcsv
+
+- __2025-08-15__ · [`2fa63d4`](https://github.com/operatorjen/mcsv/commit/2fa63d4fd3860425539af1c181e816c40ed339fd) — river gate links ••• facets remap schema [T0 R1 F1] obj=links v=0.9 seed=203bddc
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## systems.as.games
+
+- __2025-08-15__ · [`177ce74`](https://github.com/operatorjen/systems.as.games/commit/177ce74329b347c0bf5acc8e6c25f9775ae6b051) — RIVER 〰️ rerouting edges ••• FACETS 💎 renaming keys [T0 R1 F1] obj=links v=0.9 seed=7ac99e7
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-15__ · [`c516cc8`](https://github.com/operatorjen/systems.as.games/commit/c516cc86f8f97529f838d5930d9b6474b93f6af5) — terrain relocate module ••• facets rename schema [T1 R0 F1] obj=module v=0.9 seed=de104be
+  - Files:
+    - `002.md`
+    - `ECOSYSTEM/world.css`
+
+- __2025-08-15__ · [`7b85dd9`](https://github.com/operatorjen/systems.as.games/commit/7b85dd93df9d38e853917f151635ea126ca8d251) — RIVER 〰️ realigning edges [T0 R1 F0] obj=links v=0.9 seed=80def81
+  - Files:
+    - `COLLECTION.md`
+
+- __2025-08-15__ · [`67ff764`](https://github.com/operatorjen/systems.as.games/commit/67ff764ab23307181b568cf0c50d957ff5c0c496) — facets reword keys [T0 R0 F1] obj=keys v=0.9 seed=81f83fa
+  - Files:
+    - `ECOSYSTEM/world.css`
+
