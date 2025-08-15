@@ -49,6 +49,10 @@ h1 {
   background-size: 200% 200%;
 }
 
+#world:empty {
+  background-color: transparent;
+}
+
 #world[data-sag-wind="1"] {
   animation-name: sag-pulse, sag-sway;
   animation-duration: calc(1.5s + (4s * (1 - var(--reveal)))), calc(6s - 2s * var(--spawn));
