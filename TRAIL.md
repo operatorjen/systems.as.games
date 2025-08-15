@@ -214,3 +214,62 @@ Keep exploring.
     - `003.md`
     - `005.md`
 
+- __2025-08-14__ · [`db1791b`](https://github.com/operatorjen/systems.as.games/commit/db1791b36f2851727e6dfbbf3537704ca0ba2ad2) — Guide updates
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-14__ · [`0e2fe26`](https://github.com/operatorjen/systems.as.games/commit/0e2fe26941a097e1303791b6ffa9ade6d4227cc7) — Strong winds pass through
+  - Files:
+    - `ECOSYSTEM/garden.html`
+    - `ECOSYSTEM/scripts/garden.pack.js`
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+    - `ECOSYSTEM/worlds.html`
+
+- __2025-08-15__ · [`c4ab6ab`](https://github.com/operatorjen/systems.as.games/commit/c4ab6ab3940360fa6c4747f48633f700c861fb3f) — A reflection of reflecting
+  - Files:
+    - `004.md`
+
+## art.of.noise
+
+- __2025-08-15__ · [`c99fb4e`](https://github.com/operatorjen/art.of.noise/commit/c99fb4e00dee44cbbbf181b7088cb0ae34c51d2c) — World: loading complete
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## systems.as.games
+
+- __2025-08-15__ · [`bd4e1e3`](https://github.com/operatorjen/systems.as.games/commit/bd4e1e3424f4a7c6c4a55bd1a1a3ce16c64dd665) — terrain relocate module ••• river reroute links [T1 R1 F0] obj=module v=0.9 seed=5f1e9b0
+  - Files:
+    - `ECOSYSTEM/sag.css`
+    - `ECOSYSTEM/scripts/garden.pack.js`
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-world.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+
+## 1k.quantumworm
+
+- __2025-08-15__ · [`a6e6b13`](https://github.com/operatorjen/1k.quantumworm/commit/a6e6b13fda7ce422beb41e58fcccf009fefffb75) — World: loading
+  - Files:
+    - `index.html`
+
+- __2025-08-15__ · [`0014ad6`](https://github.com/operatorjen/1k.quantumworm/commit/0014ad61c23fc2a1bb5a49420673146340ae96f0) — World: loading complete
+  - Files:
+    - `README.md`
+    - `quantumworm.js`
+    - `quantumworm.min.js`
+    - `quantumworm.pack.js`
+    - `style.css`
+    - `thumbnail.png`
+
+## bean.sims
+
+- __2025-08-15__ · [`34b83e2`](https://github.com/operatorjen/bean.sims/commit/34b83e297cbb2ee3b3abb30bf13f16cb1c1bacc3) — World: loading
+  - Files:
+    - `index.html`
