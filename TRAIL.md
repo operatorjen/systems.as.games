@@ -393,3 +393,24 @@ Keep exploring.
     - `index.html`
     - `style.css`
 
+## systems.as.games
+
+- __2025-08-16__ · [`fd05feb`](https://github.com/operatorjen/systems.as.games/commit/fd05feb826958f8c8a51b069e164ec929db5e1e4) — RIVER 〰️ realigning edges ••• FACETS 💎 reframing keys [T0 R1 F1] obj=links v=0.9 seed=210adc4
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-16__ · [`cbded45`](https://github.com/operatorjen/systems.as.games/commit/cbded45f21d67e1f0b1bddd748eb6bc4557cfeb1) — river gate links ••• facets rename schema [T0 R1 F2] obj=links v=0.9 seed=50f8604
+  - Files:
+    - `ECOSYSTEM/scripts/garden.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/world.css`
+
+- __2025-08-16__ · [`b5cdf98`](https://github.com/operatorjen/systems.as.games/commit/b5cdf982b956a01ff14156b4970b202990ea451a) — river gate links ••• facets rename schema [T0 R1 F2] obj=links v=0.9 seed=8ee5152
+  - Files:
+    - `ECOSYSTEM/sag.css`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+
+- __2025-08-16__ · [`6162189`](https://github.com/operatorjen/systems.as.games/commit/616218908c46c3747a585f389963f2373376b1aa) — facets remap keys [T0 R0 F0] obj=keys v=0.9 seed=bcb27f8
+  - Files:
+    - `001.md`
+
