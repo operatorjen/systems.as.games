@@ -38,18 +38,13 @@ h3.lab {
   text-align: center;
 
 }
-#clear, .sag-btn.keyboard {
-  font-family: Arial, sans-serif;
+#clear {
   position: fixed;
   top: 50px;
   right: 5px;
   border: 0;
   color: #eee;
   border-radius: 2px;
-}
-
-.sag-btn.keyboard {
-  right: 70px;
 }
 #clear:active {
   background-color: #eee;
@@ -144,12 +139,8 @@ h3.lab {
 .sag-openbtn:hover{filter:brightness(1.05)}.sag-visible .sag-overlay{opacity:1;pointer-events:auto}.sag-visible .sag-drawer{transform:translateX(0)}
 
 .sag-kb-wrap {
-  display:none; 
-  gap:.5rem; 
   align-items:center; 
-  margin-top: 50px;
 }
-
 
 @media screen and (max-width: 600px) {
   #crumbs-rail {
