@@ -354,3 +354,42 @@ Keep exploring.
   - Files:
     - `ECOSYSTEM/world.css`
 
+- __2025-08-15__ · [`21d2023`](https://github.com/operatorjen/systems.as.games/commit/21d2023b6279735fcbb00741ea61c1a9643c4daa) — RIVER 〰️ realigning edges ••• FACETS 💎 reframing keys [T0 R1 F1] obj=links v=0.9 seed=81f83fa
+  - Files:
+    - `TRAIL.md`
+
+## artificial.lifeforms
+
+- __2025-08-16__ · [`413ceb5`](https://github.com/operatorjen/artificial.lifeforms/commit/413ceb5d26c13ac9f40e0982732da6460fa8d063) — river gate links [T0 R1 F0] obj=links v=0.9 seed=1c323c3
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## mcsv
+
+- __2025-08-16__ · [`864c51b`](https://github.com/operatorjen/mcsv/commit/864c51bda3d60789f509b17f91ea0224565f3359) — river reroute links [T0 R1 F0] obj=links v=0.9 seed=4d6ae42
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## bean.sims
+
+- __2025-08-16__ · [`fbb0bb6`](https://github.com/operatorjen/bean.sims/commit/fbb0bb67ba323bc090296b54b4deb8a587c9a06a) — terrain relocate path ••• river reroute links [T1 R1 F0] obj=path v=0.9 seed=7fed907
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## 1k.quantumworm
+
+- __2025-08-16__ · [`23657fd`](https://github.com/operatorjen/1k.quantumworm/commit/23657fd6d3e787b3a3d8730754d4d01a1fa93477) — river reorder links [T0 R1 F0] obj=links v=0.9 seed=fd36e72
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## art.of.noise
+
+- __2025-08-16__ · [`3c3c942`](https://github.com/operatorjen/art.of.noise/commit/3c3c9428e3c9121f67892f4a4a168e87fe3784ea) — river gate links [T0 R1 F0] obj=links v=0.9 seed=9e2f6f9
+  - Files:
+    - `index.html`
+    - `style.css`
+
