@@ -93,16 +93,24 @@ h3.lab {
 
 #crumbs-rail {
   position: fixed;
-  bottom: 5px;
+  bottom: 15px;
   left: 5px;
-  z-index: 3;
-
+  z-index: 300;
+  width: 75vw;
+  overflow: auto;
+  max-height: 35px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 5px;
+  padding-bottom: 10px;
+  user-select: none;
 }
 
 .sag-crumbs{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .sag-crumbs .sag-link{
-  display:inline-block;padding:4px 10px;border:1px solid rgba(255,255,255,.12);
-  border-radius:999px;background:#1a1d26;color:#e8eaf0;text-decoration:none;font-size:12px
+  display:block;padding:4px 15px;border:1px solid rgba(255,255,255,.12);
+  white-space: nowrap;;
+  border-radius:999px;background:#1a1d26;color:#e8eaf0;text-decoration:none;font-size:12px;
 }
 .sag-crumbs .sag-link:hover{filter:brightness(1.08)}
 
@@ -140,10 +148,4 @@ h3.lab {
 
 .sag-kb-wrap {
   align-items:center; 
-}
-
-@media screen and (max-width: 600px) {
-  #crumbs-rail {
-    width: 75vw;
-  }
 }

@@ -43,7 +43,9 @@
 }
 
 #world:empty {
-  background-color: transparent;
+  background: none;
+  box-shadow: none;
+  filter: none;
 }
 
 #world[data-sag-wind="1"] {
@@ -147,4 +149,23 @@
   0%   { transform: translateX(-2px) rotate(-0.4deg) scale(calc(1 + var(--spawn) * 0.14)); background-position: 0% 0%; }
   50%  { transform: translateX( 2px) rotate( 0.4deg) scale(calc(1 + var(--spawn) * 0.14)); background-position: 100% 100%; }
   100% { transform: translateX(-2px) rotate(-0.4deg) scale(calc(1 + var(--spawn) * 0.14)); background-position: 0% 0%; }
+}
+
+#home {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  font-size: 1.2rem;
+  color: #555;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  width: auto;
+}
+
+#home:hover {
+  background-color: rgba(239, 8, 77, 0.8);
+  color: #f0f;
 }
