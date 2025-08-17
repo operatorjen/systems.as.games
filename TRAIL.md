@@ -455,3 +455,17 @@ Keep exploring.
     - `index.html`
     - `style.css`
 
+## systems.as.games
+
+- __2025-08-17__ · [`4b0eb15`](https://github.com/operatorjen/systems.as.games/commit/4b0eb15b47671ddac8eb8e6710473ecaabf9ba58) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=c92457c
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-17__ · [`18355e3`](https://github.com/operatorjen/systems.as.games/commit/18355e34052b14aa5c33f53de482ccdf5339244f) — river relink links ••• 💎 rename schema [T0 R1 F2] obj=links v=1.0 seed=01898d6
+  - Files:
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+
