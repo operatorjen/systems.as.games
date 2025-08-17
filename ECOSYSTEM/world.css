@@ -152,8 +152,7 @@
 }
 
 #home {
-  position: absolute;
-  top: 10px;
+  position: fixed;
   left: 10px;
   z-index: 1000;
   font-size: 1.2rem;
@@ -163,9 +162,52 @@
   border-radius: 5px;
   text-decoration: none;
   width: auto;
+  top: 10px;
 }
 
 #home:hover {
   background-color: rgba(239, 8, 77, 0.8);
   color: #f0f;
+}
+
+#garden-lnk, #river-lnk, #mountain-lnk {
+  position: absolute;
+  z-index: 300;
+  display: inline-block;
+  width: 20px;
+  height: 22px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  text-align: center;
+  background-color: rgba(213, 39, 132, 0.5);
+  top: 10px;
+  left: 82px;
+  text-decoration: none;
+}
+
+#garden-lnk:active, #river-lnk:active, #mountain-lnk:active,
+#garden-lnk:hover, #river-lnk:hover, #mountain-lnk:hover {
+  filter: saturate(3);
+}
+
+#garden-lnk:hover {
+  background-color: rgba(255, 84, 255, 0.5);
+}
+
+#river-lnk {
+  left: 125px;
+  background-color: rgba(39, 178, 213, 0.5);
+}
+
+#river-lnk:hover {
+  background-color: rgba(39, 213, 178, 0.5);
+}
+
+#mountain-lnk {
+  left: 168px;
+  background-color: rgba(213, 126, 39, 0.5);
+}
+
+#mountain-lnk:hover {
+  background-color: rgba(213, 39, 39, 0.5);
 }
