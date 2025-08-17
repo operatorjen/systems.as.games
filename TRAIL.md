@@ -414,3 +414,44 @@ Keep exploring.
   - Files:
     - `001.md`
 
+- __2025-08-16__ · [`6111746`](https://github.com/operatorjen/systems.as.games/commit/611174671667a46ed97e8c6dd34a30ef72a4afd7) — RIVER 〰️ gating edges ••• FACETS 💎 remapping keys [T0 R1 F1] obj=links v=0.9 seed=3e48559
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-17__ · [`ea9ab73`](https://github.com/operatorjen/systems.as.games/commit/ea9ab73deff478b8b60bc1c01dc9a375d6630420) — river reroute links ••• facets reword schema [T0 R1 F2] obj=links v=0.9 seed=13df160
+  - Files:
+    - `005.md`
+    - `ECOSYSTEM/sag.css`
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+    - `ECOSYSTEM/world.css`
+
+## artificial.lifeforms
+
+- __2025-08-17__ · [`af69a60`](https://github.com/operatorjen/artificial.lifeforms/commit/af69a603d91bc0b80b4ccccc0544f6a4e442dfb2) — 💎 rescope keys [T0 R0 F1] obj=keys v=1.0 seed=3280242
+  - Files:
+    - `style.css`
+
+## mcsv
+
+- __2025-08-17__ · [`9c30991`](https://github.com/operatorjen/mcsv/commit/9c30991ebec2670f37bc2a1e1c2f36c3214cf172) — 💎 retag keys [T0 R0 F1] obj=keys v=1.0 seed=5360626
+  - Files:
+    - `index.html`
+    - `style.css`
+
+## bean.sims
+
+- __2025-08-17__ · [`1f2efe8`](https://github.com/operatorjen/bean.sims/commit/1f2efe81306d58e0ebd9f52e699593e32030e670) — 💎 remap keys [T0 R0 F1] obj=keys v=1.0 seed=99ec68f
+  - Files:
+    - `style.css`
+
+## art.of.noise
+
+- __2025-08-17__ · [`c6606dc`](https://github.com/operatorjen/art.of.noise/commit/c6606dc091ee258ee5ef38ecdb6ac9de663076ca) — 💎 rename keys [T0 R0 F1] obj=keys v=1.0 seed=5daa25c
+  - Files:
+    - `index.html`
+    - `style.css`
+
