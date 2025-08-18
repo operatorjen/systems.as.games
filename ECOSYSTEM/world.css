@@ -171,7 +171,7 @@
 }
 
 #garden-lnk, #river-lnk, #mountain-lnk {
-  position: absolute;
+  position: fixed;
   z-index: 300;
   display: inline-block;
   width: 20px;
