@@ -469,3 +469,57 @@ Keep exploring.
     - `ECOSYSTEM/scripts/sag-worlds.js`
     - `ECOSYSTEM/scripts/sag-worlds.pack.js`
 
+- __2025-08-17__ · [`73995ff`](https://github.com/operatorjen/systems.as.games/commit/73995ffb933c2751b8c6e0f3dc91dd0c757fe5ad) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=0cd6925
+  - Files:
+    - `TRAIL.md`
+
+- __2025-08-17__ · [`f9b850e`](https://github.com/operatorjen/systems.as.games/commit/f9b850e9a6b32c2499f588ec810452229df852d8) — river reroute links ••• 💎 reword schema [T0 R1 F2] obj=links v=1.0 seed=9200419
+  - Files:
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+
+- __2025-08-17__ · [`483897d`](https://github.com/operatorjen/systems.as.games/commit/483897d96161b41ab632d30b1e957f0cd0d0055a) — 💎 reword keys [T0 R0 F1] obj=keys v=1.0 seed=3741425
+  - Files:
+    - `ECOSYSTEM/ecosystem.css`
+    - `ECOSYSTEM/scripts/sag-world.js`
+
+## artificial.lifeforms
+
+- __2025-08-17__ · [`ca4c8f3`](https://github.com/operatorjen/artificial.lifeforms/commit/ca4c8f37a22ad4a2a947c43108301ca14d888449) — 💎 reword keys [T0 R0 F1] obj=keys v=1.0 seed=f75444a
+  - Files:
+    - `script.js`
+    - `style.css`
+
+## systems.as.games
+
+- __2025-08-17__ · [`02fd526`](https://github.com/operatorjen/systems.as.games/commit/02fd526a31a137afe4b2bd7eaf3b6149b490ffbc) — river gate links ••• 💎 retag schema [T0 R1 F2] obj=links v=1.0 seed=eb71d5c
+  - Files:
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+
+- __2025-08-17__ · [`dee24b0`](https://github.com/operatorjen/systems.as.games/commit/dee24b01d6c06040801ba0b0407e6cea3b2e5d47) — 〰️ reorder links ••• facets reword schema [T0 R2 F2] obj=links v=1.0 seed=627ae90
+  - Files:
+    - `ECOSYSTEM/scripts/mountain.pack.js`
+    - `ECOSYSTEM/scripts/river.pack.js`
+    - `ECOSYSTEM/scripts/sag-game.pack.js`
+    - `ECOSYSTEM/scripts/sag-worlds.js`
+    - `ECOSYSTEM/scripts/sag-worlds.pack.js`
+    - `ECOSYSTEM/world.css`
+
+- __2025-08-18__ · [`0652c18`](https://github.com/operatorjen/systems.as.games/commit/0652c18ebbecf18f631a4cfb05ac6887ad000ce8) — 💎 rescope keys [T0 R0 F0] obj=keys v=1.0 seed=1522773
+  - Files:
+    - `003.md`
+    - `ECOSYSTEM/world.css`
+
+## 1k.quantumworm
+
+- __2025-08-18__ · [`6f54f70`](https://github.com/operatorjen/1k.quantumworm/commit/6f54f70c3fadf2725150f0619fb1e8daffaf3e30) — ⛰️ 〰️ [T0 R1 F0] obj=file v=1.0 seed=294f55c
+  - Files:
+    - `COLLECTION.md`
+
