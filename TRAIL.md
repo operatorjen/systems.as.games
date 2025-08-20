@@ -523,3 +523,15 @@ Keep exploring.
   - Files:
     - `COLLECTION.md`
 
+## systems.as.games
+
+- __2025-08-18__ · [`f0f2b20`](https://github.com/operatorjen/systems.as.games/commit/f0f2b20342d531972439b14e5c6a9740479c6bcc) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=84b6ae7
+  - Files:
+    - `TRAIL.md`
+
+## mcsv
+
+- __2025-08-18__ · [`c83725a`](https://github.com/operatorjen/mcsv/commit/c83725a2534f6dfeee34afaee038d9795fdab792) — 💎 rename keys [T0 R0 F1] obj=keys v=1.0 seed=9d029e3
+  - Files:
+    - `index.html`
+
