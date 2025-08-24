@@ -535,3 +535,168 @@ Keep exploring.
   - Files:
     - `index.html`
 
+## signals.as.games
+
+- __2025-08-20__ · [`ee9a868`](https://github.com/operatorjen/signals.as.games/commit/ee9a868df3b35a2fc841a5c616fcda9f523a8118) — Want to play again?
+  - Files:
+    - `TALK`
+
+## systems.as.games
+
+- __2025-08-20__ · [`026d759`](https://github.com/operatorjen/systems.as.games/commit/026d75973aa26f6a5d7267cff5d6d0ca8b025f4c) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=e86f44e
+  - Files:
+    - `TRAIL.md`
+
+## signals.as.games
+
+- __2025-08-21__ · [`4190700`](https://github.com/operatorjen/signals.as.games/commit/4190700de23e5dc62e824a79f2b3262702fe8611) — Seed initialized.
+  - Files:
+    - `BUILDING/LOBBY/KITCHEN/kitchen.md`
+    - `BUILDING/LOBBY/LOUNGE/lounge.md`
+    - `BUILDING/LOBBY/OFFICE/BOOKS/notebook.md`
+    - `BUILDING/LOBBY/OFFICE/BOOKS/sketchbook.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/closet.md`
+    - `BUILDING/LOBBY/OFFICE/DEVICES/keyboard.md`
+    - `BUILDING/LOBBY/OFFICE/office.md`
+    - `BUILDING/LOBBY/lobby.md`
+    - `TALK`
+    - `WELCOME.md`
+
+- __2025-08-21__ · [`20f55f5`](https://github.com/operatorjen/signals.as.games/commit/20f55f5d089ecd2f7eaaf28635c6a200c14e7cb7) — Keyboard functionality for communication
+  - Files:
+    - `BUILDING/LOBBY/OFFICE/DEVICES/keyboard.md`
+
+- __2025-08-21__ · [`776b264`](https://github.com/operatorjen/signals.as.games/commit/776b2647214a20f8798488c58b822a8aaf7d1d30) — Adding a monitor
+  - Files:
+    - `BUILDING/LOBBY/OFFICE/DEVICES/monitor.md`
+
+- __2025-08-21__ · [`9727a8f`](https://github.com/operatorjen/signals.as.games/commit/9727a8f4e90e321eb80bb66520b0c54d25fd8131) — First entrance
+  - Files:
+    - `BUILDING/LOBBY/lobby.md`
+
+## systems.as.games
+
+- __2025-08-21__ · [`1c136bf`](https://github.com/operatorjen/systems.as.games/commit/1c136bf70b1a96ef2ca8b50ee1e54929f8f10232) — 💎 reword keys [T0 R0 F0] obj=keys v=1.0 seed=c1a0c00
+  - Files:
+    - `006.md`
+
+## signals.as.games
+
+- __2025-08-21__ · [`a27c5e9`](https://github.com/operatorjen/signals.as.games/commit/a27c5e9aebe77e5cbfbec52ec79cb62da2a06b99) — Connecting rooms...
+  - Files:
+    - `BUILDING/LOBBY/KITCHEN/kitchen.md`
+    - `BUILDING/LOBBY/LOUNGE/lounge.md`
+    - `BUILDING/LOBBY/OFFICE/office.md`
+
+## systems.as.games
+
+- __2025-08-21__ · [`0e79e2c`](https://github.com/operatorjen/systems.as.games/commit/0e79e2c4f594bbd8e61c866bc8a75f44b8aff39a) — 〰️ reorder links [T0 R1 F0] obj=links v=1.0 seed=ff99384
+  - Files:
+    - `006.md`
+
+## signals.as.games
+
+- __2025-08-21__ · [`182e1ac`](https://github.com/operatorjen/signals.as.games/commit/182e1ac45bff8ea5cdbf15ff1ebfdb4b076111b7) — Adding more rooms
+  - Files:
+    - `BUILDING/LOBBY/OFFICE/WINDOW/window.md`
+    - `BUILDING/LOBBY/OFFICE/office.md`
+    - `MOON/moon.md`
+    - `SUN/sun.md`
+
+- __2025-08-22__ · [`9885b2e`](https://github.com/operatorjen/signals.as.games/commit/9885b2e5b4bc5c1f814981e981c49ad7b48eccbe) — A hallway of mirrors
+  - Files:
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.HALLWAY/hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/hallway.md`
+    - `BUILDING/LOBBY/OFFICE/WINDOW/window.md`
+
+- __2025-08-22__ · [`541c9f6`](https://github.com/operatorjen/signals.as.games/commit/541c9f6be2d58622dd1eee12f33e54308894ec54) — Loading...
+  - Files:
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/kitchen.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/closet.md`
+    - `BUILDING/LOBBY/OFFICE/DEVICES/monitor.md`
+    - `BUILDING/LOBBY/OFFICE/office.md`
+
+- __2025-08-22__ · [`12a7c77`](https://github.com/operatorjen/signals.as.games/commit/12a7c775c65b5be26db19866356c6e9257556601) — Additional hallways loaded
+  - Files:
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/DEVICES/keyboard.md`
+
+- __2025-08-22__ · [`57561e0`](https://github.com/operatorjen/signals.as.games/commit/57561e0dbf972bcc6c8f4ec5b10303125b3af2c9) — Add check-in points + locations
+  - Files:
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/KITCHEN/HALLWAY/hallway.md`
+    - `BUILDING/LOBBY/KITCHEN/kitchen.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.HIDDEN/.HIDDEN/.checkin.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/LOUNGE/lounge.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.HIDDEN/.checkin.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.hidden.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.hallway.md`
+    - `BUILDING/LOBBY/OFFICE/CLOSET/closet.md`
+
+- __2025-08-24__ · [`fa394fa`](https://github.com/operatorjen/signals.as.games/commit/fa394fa3fdfb6bae4d7f0ea17d217757881d9c4e) — Loading status update...
+  - Files:
+    - `BUILDING/LOBBY/OFFICE/DEVICES/monitor.md`
+
+## systems.as.games
+
+- __2025-08-24__ · [`33a082c`](https://github.com/operatorjen/systems.as.games/commit/33a082c385244d900259daffd9684840c62d1092) — 〰️ reorder links [T0 R1 F0] obj=links v=1.0 seed=b1387e3
+  - Files:
+    - `COLLECTION.md`
+
