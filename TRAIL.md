@@ -716,3 +716,22 @@ Keep exploring.
   - Files:
     - `index.html`
 
+## systems.as.games
+
+- __2025-08-27__ · [`cd65111`](https://github.com/operatorjen/systems.as.games/commit/cd651114fa8ee3cfd11fe1f123147934a4d1d024) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=1a91066
+  - Files:
+    - `TRAIL.md`
+
+## signals.as.games
+
+- __2025-08-27__ · [`f17dc39`](https://github.com/operatorjen/signals.as.games/commit/f17dc39b484a66cc8ee4b42a1492f6f16fd9e082) — Connecting A to D...
+  - Files:
+    - `BUILDING/LOBBY/OFFICE/CLOSET/.HALLWAY/.HIDDEN/.HALLWAY/.HALLWAY/.HIDDEN/.hidden.md`
+
+## 1k.quantumworm
+
+- __2025-08-27__ · [`74be507`](https://github.com/operatorjen/1k.quantumworm/commit/74be5074ea8f35e891c17c257da6f12363083c04) — Connecting D to B...
+  - Files:
+    - `index.html`
+    - `style.css`
+
