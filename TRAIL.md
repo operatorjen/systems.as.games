@@ -700,3 +700,19 @@ Keep exploring.
   - Files:
     - `COLLECTION.md`
 
+- __2025-08-24__ · [`98d904a`](https://github.com/operatorjen/systems.as.games/commit/98d904ab457d676abcb3cf46acf3b1765d996dc8) — 〰️〰️ 💎 [T0 R2 F1] obj=links v=1.0 seed=513d92b
+  - Files:
+    - `TRAIL.md`
+
+## signals.as.games
+
+- __2025-08-27__ · [`d4569cc`](https://github.com/operatorjen/signals.as.games/commit/d4569cc9d237995f20df2bfd76111cff5f4f679c) — Connecting A to B...
+  - Files:
+    - `BUILDING/LOBBY/KITCHEN/.HALLWAY/.HIDDEN/.HALLWAY/.hallway.md`
+
+## artificial.lifeforms
+
+- __2025-08-27__ · [`ad09a86`](https://github.com/operatorjen/artificial.lifeforms/commit/ad09a86c1ef27cef596abdbfd0ef3df0d04df0a8) — Connecting B to C...
+  - Files:
+    - `index.html`
+
