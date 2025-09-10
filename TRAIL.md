@@ -752,3 +752,61 @@ Keep exploring.
     - `questions.json.sample`
     - `ua_banned.json.sample`
 
+## systems.as.games
+
+- __2025-09-06__ · [`8d14463`](https://github.com/operatorjen/systems.as.games/commit/8d1446336c2fa7b9e997ffabff8d3f63470ebc55) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=95812ef
+  - Files:
+    - `TRAIL.md`
+
+## the.liminal.gates
+
+- __2025-09-06__ · [`35689f5`](https://github.com/operatorjen/the.liminal.gates/commit/35689f574afc0b7471d22cd536d4324fb510e59b) — Interface
+  - Files:
+    - `public/gate.js`
+    - `public/style.css`
+    - `views/forbidden.ejs`
+    - `views/gate.ejs`
+    - `views/layout.ejs`
+    - `views/leaderboard.ejs`
+    - `views/view.ejs`
+
+- __2025-09-06__ · [`ba08215`](https://github.com/operatorjen/the.liminal.gates/commit/ba082152e2d745022bab7f3941f1f83b4ff88b73) — Substrate
+  - Files:
+    - `index.js`
+    - `routes/gates.js`
+    - `routes/leaderboard.js`
+    - `utils/crumbs.js`
+    - `utils/csrf.js`
+    - `utils/emojiPath.js`
+    - `utils/jwt.js`
+    - `utils/questions.js`
+    - `utils/redis.js`
+    - `utils/telemetry.js`
+
+- __2025-09-08__ · [`3ecb166`](https://github.com/operatorjen/the.liminal.gates/commit/3ecb166c2b12600a3f6ed390eeaae42ddbd9e54f) — Special access...
+  - Files:
+    - `.env.sample`
+    - `index.js`
+    - `package-lock.json`
+    - `package.json`
+    - `public/style.css`
+    - `public/themes/abyss.css`
+    - `public/themes/liminal.css`
+    - `public/ws.js`
+    - `routes/gates.js`
+    - `routes/leaderboard.js`
+    - `utils/themes.js`
+    - `views/gate.ejs`
+    - `views/layout.ejs`
+    - `views/view.ejs`
+
+- __2025-09-10__ · [`503ac47`](https://github.com/operatorjen/the.liminal.gates/commit/503ac476c27917adcaf502ef271f88f649b99fb7) — J U M P
+  - Files:
+    - `.env.sample`
+    - `index.js`
+    - `routes/jumps.js`
+    - `scripts/jump-link.mjs`
+    - `scripts/rotate-keys.mjs`
+    - `utils/themes.js`
+    - `views/jump.ejs`
+
