@@ -9,6 +9,15 @@ h3.lab {
   font-size: 0.85rem;
   font-weight: normal;
 }
+#lml {
+  position: fixed;
+  z-index: 11;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  left: 2px;
+  top: 2px;
+}
 #interface {
   position: fixed;
   left: 0;
