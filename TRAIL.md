@@ -810,3 +810,78 @@ Keep exploring.
     - `utils/themes.js`
     - `views/jump.ejs`
 
+## systems.as.games
+
+- __2025-09-10__ · [`67cf28e`](https://github.com/operatorjen/systems.as.games/commit/67cf28ec0389bcce6011bc63741c508e67194c26) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=3e40bfe
+  - Files:
+    - `TRAIL.md`
+
+- __2025-09-11__ · [`4fa7dcc`](https://github.com/operatorjen/systems.as.games/commit/4fa7dcc21725dde1881d6bd9eb2b3efd9d64787c) — river reroute links ••• 💎 rename keys [T0 R1 F1] obj=links v=1.0 seed=a4c688d
+  - Files:
+    - `ECOSYSTEM/garden.html`
+    - `ECOSYSTEM/mountain.html`
+    - `ECOSYSTEM/river.html`
+    - `ECOSYSTEM/sag.css`
+
+## the.liminal.gates
+
+- __2025-09-11__ · [`af88b1b`](https://github.com/operatorjen/the.liminal.gates/commit/af88b1ba1d191ace9f4da119dc0c9652d5a56dcc) — Familiar systems, familiar faces...
+  - Files:
+    - `index.js`
+    - `public/inline-tools.js`
+    - `public/style.css`
+    - `public/themes/1k.quantumworm.css`
+    - `public/themes/abyss.css`
+    - `public/themes/art.of.noise.css`
+    - `public/themes/artificial.lifeforms.css`
+    - `public/themes/bean.sims.css`
+    - `public/themes/mcsv.css`
+    - `public/themes/signals.as.games.css`
+    - `public/themes/systems.as.games.css`
+    - `routes/gates.js`
+    - `utils/crumbs.js`
+    - `utils/jwt.js`
+    - `utils/themes.js`
+    - `views/layout.ejs`
+    - `views/view.ejs`
+
+- __2025-09-11__ · [`0a548c7`](https://github.com/operatorjen/the.liminal.gates/commit/0a548c7dc0b6920efff094da0282dc74e9f23265) — Hidden references to recursive symbols...
+  - Files:
+    - `index.js`
+    - `public/themes/abyss.css`
+    - `public/themes/pin.css`
+    - `public/ws.js`
+    - `routes/gates.js`
+    - `routes/jumps.js`
+    - `scripts/jump-link.mjs`
+    - `utils/linkPreview.js`
+    - `utils/themes.js`
+    - `views/gate.ejs`
+    - `views/layout.ejs`
+    - `views/view.ejs`
+
+## min-max.gates
+
+- __2025-09-16__ · [`dbcf5ac`](https://github.com/operatorjen/min-max.gates/commit/dbcf5acd4990ed04cfd9dcc749b18467614f61cc) — Seed initialized.
+  - Files:
+    - `.env.sample`
+    - `LICENSE`
+    - `package-lock.json`
+    - `package.json`
+    - `prize.json.sample`
+
+- __2025-09-16__ · [`27db502`](https://github.com/operatorjen/min-max.gates/commit/27db50259359b9c74adb73b9358ac8c390816d0d) — System rules.
+  - Files:
+    - `.env.sample`
+    - `core.js`
+    - `index.js`
+    - `narrative.js`
+    - `narrative.json.sample`
+    - `package-lock.json`
+    - `package.json`
+    - `player.sh`
+    - `player.sh.md`
+    - `prize.json.sample`
+    - `recipe.json.sample`
+    - `rules.json.sample`
+
