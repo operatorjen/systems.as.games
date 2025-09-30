@@ -43,9 +43,7 @@
 }
 
 #world:empty {
-  background: none;
-  box-shadow: none;
-  filter: none;
+  display: none;
 }
 
 #world[data-sag-wind="1"] {
