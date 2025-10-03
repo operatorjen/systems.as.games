@@ -885,3 +885,39 @@ Keep exploring.
     - `recipe.json.sample`
     - `rules.json.sample`
 
+## systems.as.games
+
+- __2025-09-26__ · [`fc1f278`](https://github.com/operatorjen/systems.as.games/commit/fc1f278c7902e36811b0556f1b6bbc26c7bc0200) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=50bc6f2
+  - Files:
+    - `TRAIL.md`
+
+## prompt.gates
+
+- __2025-09-28__ · [`3ad354e`](https://github.com/operatorjen/prompt.gates/commit/3ad354e35079002e12812a1742198209770f60fb) — Seed initialized.
+  - Files:
+    - `.env.sample`
+    - `LICENSE`
+    - `requirements.txt`
+    - `rules.json.sample`
+
+## systems.as.games
+
+- __2025-09-30__ · [`83a2eec`](https://github.com/operatorjen/systems.as.games/commit/83a2eecb293eaeed5bdb100eef7cfef07adc7f50) — 💎 rename keys [T0 R0 F0] obj=keys v=1.0 seed=58e5ebc
+  - Files:
+    - `ECOSYSTEM/world.css`
+
+## prompt.gates
+
+- __2025-09-28__ · [`452c579`](https://github.com/operatorjen/prompt.gates/commit/452c579e40ccbb2cc089e03205745e76e8a8e107) — New gates arrive...
+  - Files:
+    - `.env.sample`
+    - `gates.py`
+    - `index.html`
+    - `requirements.txt`
+    - `rules.json.sample`
+    - `server.py`
+    - `static/style.css`
+    - `tests/test_gates.py`
+    - `tests/test_rules.json`
+    - `themes.py`
+
