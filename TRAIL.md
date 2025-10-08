@@ -921,3 +921,69 @@ Keep exploring.
     - `tests/test_rules.json`
     - `themes.py`
 
+## systems.as.games
+
+- __2025-10-03__ · [`e36a3dc`](https://github.com/operatorjen/systems.as.games/commit/e36a3dc97ab5b08cd1284a2b74f8a7d061ab123a) — 〰️ 💎 [T0 R1 F1] obj=links v=1.0 seed=e8132d7
+  - Files:
+    - `TRAIL.md`
+
+## mcsv
+
+- __2025-10-07__ · [`b1ed0b1`](https://github.com/operatorjen/mcsv/commit/b1ed0b179a7de02aa419add8696b73744ce543bd) — 💎 rename keys [T0 R0 F0] obj=keys v=1.0 seed=8364544
+  - Files:
+    - `README.md`
+
+## artificial.lifeforms
+
+- __2025-10-07__ · [`5f81276`](https://github.com/operatorjen/artificial.lifeforms/commit/5f8127610fd9e603fffdbc5e4b2cbf2f57de8b88) — 💎 rescope keys [T0 R0 F0] obj=keys v=1.0 seed=35ebc80
+  - Files:
+    - `README.md`
+
+## bean.sims
+
+- __2025-10-07__ · [`96528ba`](https://github.com/operatorjen/bean.sims/commit/96528ba8fd8c8328e974c1b0d7bfb5032ba611eb) — 💎 reword keys [T0 R0 F0] obj=keys v=1.0 seed=c13975a
+  - Files:
+    - `README.md`
+
+## 1k.quantumworm
+
+- __2025-10-07__ · [`9de63fe`](https://github.com/operatorjen/1k.quantumworm/commit/9de63fec3e9011f600e84ae45270daa94be1e77c) — 💎 remap keys [T0 R0 F0] obj=keys v=1.0 seed=290fcaf
+  - Files:
+    - `README.md`
+
+## art.of.noise
+
+- __2025-10-07__ · [`eb33e9f`](https://github.com/operatorjen/art.of.noise/commit/eb33e9f4276412e109757d5ba02251deeb26fe6b) — 💎 reword keys [T0 R0 F0] obj=keys v=1.0 seed=884c016
+  - Files:
+    - `README.md`
+
+## systems.as.games
+
+- __2025-10-08__ · [`efc8dca`](https://github.com/operatorjen/systems.as.games/commit/efc8dca0910acea27365636cfcd2d9db666998a4) — ⛰️ reframe file [T0 R0 F0] obj=file v=1.0 seed=8c2a20c
+  - Files:
+    - `README.md`
+
+## signals.as.games
+
+- __2025-10-07__ · [`249092d`](https://github.com/operatorjen/signals.as.games/commit/249092debaf24ed3531cc24ee42a095bc2ba18ac) — Context
+  - Files:
+    - `README.md`
+
+## the.liminal.gates
+
+- __2025-10-07__ · [`761c56f`](https://github.com/operatorjen/the.liminal.gates/commit/761c56fc4a1cf91c5bff6f05066403b45660db67) — Context
+  - Files:
+    - `README.md`
+
+## min-max.gates
+
+- __2025-10-07__ · [`e96d88e`](https://github.com/operatorjen/min-max.gates/commit/e96d88e8060170b2a4fb22f02618f853cd987e9b) — Context
+  - Files:
+    - `README.md`
+
+## prompt.gates
+
+- __2025-10-07__ · [`4b78a05`](https://github.com/operatorjen/prompt.gates/commit/4b78a058af29a03d844d4249fab739ba9ebd152d) — Context
+  - Files:
+    - `README.md`
+
